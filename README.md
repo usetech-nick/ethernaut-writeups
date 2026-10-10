@@ -11,7 +11,7 @@ The goal is to understand smart contract vulnerabilities, reproduce exploits, an
 | 1 | Hello Ethernaut | Introduction to the platform | ✅ Completed (tutorial, no writeup) |
 | 2 | [Fallback](./02-fallback/) | Improper access control, unauthorized ownership transfer | ✅ Solved |
 | 3 | [Fallout](./03-fallout/) | Incorrect constructor naming | ✅ Solved |
-| 4 | [Coin Flip](./04-coin-flip/) | Predictable on-chain randomness | ✅ Solved |
+| 4 | [Coin Flip](./04-coinflip/) | Predictable on-chain randomness | ✅ Solved |
 
 ## Writeup Structure
 
