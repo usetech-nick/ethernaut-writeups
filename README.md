@@ -10,7 +10,7 @@ The goal is to understand smart contract vulnerabilities, reproduce exploits, an
 |---|---|---|---|
 | 1 | Hello Ethernaut | Introduction to the platform | ✅ Completed (tutorial, no writeup) |
 | 2 | [Fallback](./02-fallback/) | Improper access control, unauthorized ownership transfer | ✅ Solved |
-| 3 | Fallout | Incorrect constructor naming | ⬜ Not started |
+| 3 | Fallout | Incorrect constructor naming | ✅ Solved |
 
 ## Writeup Structure
 
