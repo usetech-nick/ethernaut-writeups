@@ -8,10 +8,13 @@ The goal is to understand smart contract vulnerabilities, reproduce exploits, an
 
 | # | Challenge | Vulnerability / Concept | Status |
 |---|---|---|---|
-| 1 | Hello Ethernaut | Introduction to the platform | ✅ Completed (tutorial, no writeup) |
-| 2 | [Fallback](./02-fallback/) | Improper access control, unauthorized ownership transfer | ✅ Solved |
-| 3 | [Fallout](./03-fallout/) | Incorrect constructor naming | ✅ Solved |
-| 4 | [Coin Flip](./04-coinflip/) | Predictable on-chain randomness | ✅ Solved |
+| 0 | Hello Ethernaut | Introduction to the platform | ✅ Completed (tutorial, no writeup) |
+| 1 | [Fallback](./01-fallback/) | Improper access control, unauthorized ownership transfer | ✅ Solved |
+| 2 | [Fallout](./02-fallout/) | Incorrect constructor naming | ✅ Solved |
+| 3 | [Coin Flip](./03-coinflip/) | Predictable on-chain randomness | ✅ Solved |
+| 4 | [Telephone](./04-telephone/) | `tx.origin` vs `msg.sender` | ✅ Solved |
+| 5 | [Token](./05-token/) | Integer underflow | ✅ Solved |
+| 6 | [Delegation](./06-delegation/) | Unsafe `delegatecall` with user-controlled calldata | ✅ Solved |
 
 ## Writeup Structure
 
