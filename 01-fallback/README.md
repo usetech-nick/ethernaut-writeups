@@ -1,4 +1,4 @@
-# Ethernaut #2 — Fallback
+# Ethernaut #1 — Fallback
 
 ## Vulnerability: Improper Access Control
 

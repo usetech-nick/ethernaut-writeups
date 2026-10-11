@@ -1,4 +1,4 @@
-# Ethernaut #4 — Coin Flip
+# Ethernaut #3 — Coin Flip
 
 ## Vulnerability: Predictable On-Chain Randomness
 

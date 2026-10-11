@@ -1,4 +1,4 @@
-# Ethernaut #7 — Delegation
+# Ethernaut #6 — Delegation
 
 ## Objective
 Claim ownership of the `Delegation` contract instance.

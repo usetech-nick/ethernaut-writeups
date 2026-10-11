@@ -1,4 +1,4 @@
-# Ethernaut #3 — Fallout
+# Ethernaut #2 — Fallout
 
 ## Vulnerability: Incorrect Constructor Naming
 

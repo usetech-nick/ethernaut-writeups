@@ -1,4 +1,4 @@
-# Ethernaut #5 — Telephone
+# Ethernaut #4 — Telephone
 
 ## Vulnerability: Improper Authorization Using `tx.origin`
 

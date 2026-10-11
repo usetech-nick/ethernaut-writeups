@@ -1,4 +1,4 @@
-# Ethernaut #6 — Token
+# Ethernaut #5 — Token
 
 ## Objective
 Hack the token contract and obtain more tokens than you initially had.
