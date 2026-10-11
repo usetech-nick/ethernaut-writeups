@@ -15,6 +15,7 @@ The goal is to understand smart contract vulnerabilities, reproduce exploits, an
 | 4 | [Telephone](./04-telephone/) | `tx.origin` vs `msg.sender` | ✅ Solved |
 | 5 | [Token](./05-token/) | Integer underflow | ✅ Solved |
 | 6 | [Delegation](./06-delegation/) | Unsafe `delegatecall` with user-controlled calldata | ✅ Solved |
+| 7 | [Force](./07-force/) | Forced ether transfer via `selfdestruct` | ✅ Solved |
 
 ## Writeup Structure
 
