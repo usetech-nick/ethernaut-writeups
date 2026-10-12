@@ -17,6 +17,7 @@ The goal is to understand smart contract vulnerabilities, reproduce exploits, an
 | 6 | [Delegation](./06-delegate/) | Unsafe `delegatecall` with user-controlled calldata | ✅ Solved |
 | 7 | [Force](./07-force/) | Forced ether transfer via `selfdestruct` | ✅ Solved |
 | 8 | [Vault](./08-vault/) | Reading "private" storage on-chain | ✅ Solved |
+| 9 | [King](./09-king/) | Denial of service via failed ETH refund | ✅ Solved |
 
 ## Writeup Structure
 
