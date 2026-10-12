@@ -18,6 +18,7 @@ The goal is to understand smart contract vulnerabilities, reproduce exploits, an
 | 7 | [Force](./07-force/) | Forced ether transfer via `selfdestruct` | ✅ Solved |
 | 8 | [Vault](./08-vault/) | Reading "private" storage on-chain | ✅ Solved |
 | 9 | [King](./09-king/) | Denial of service via failed ETH refund | ✅ Solved |
+| 10 | [Re-entrancy](./10-reentrancy/) | Reentrancy via state update after external call | ✅ Solved |
 
 ## Writeup Structure
 
