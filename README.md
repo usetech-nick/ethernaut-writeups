@@ -21,7 +21,7 @@ The goal is to understand smart contract vulnerabilities, reproduce exploits, an
 | 10 | [Re-entrancy](./10-reentrancy/) | Reentrancy via state update after external call | ✅ Solved |
 | 11 | [Elevator](./11-elevator/) | Trusting an external contract to answer consistently | ✅ Solved |
 | 12 | [Privacy](./12-privacy/) | Reading private storage, storage packing | ✅ Solved |
-| 12 | [Gatekeeper One](./13-gatekeeper-one/) | bypassable access control using predictable constraints | ✅ Solved |
+| 13 | [Gatekeeper One](./13-gatekeeper-one/) | bypassable access control using predictable constraints | ✅ Solved |
 
 ## Writeup Structure
 
