@@ -22,6 +22,7 @@ The goal is to understand smart contract vulnerabilities, reproduce exploits, an
 | 11 | [Elevator](./11-elevator/) | Trusting an external contract to answer consistently | ✅ Solved |
 | 12 | [Privacy](./12-privacy/) | Reading private storage, storage packing | ✅ Solved |
 | 13 | [Gatekeeper One](./13-gatekeeper-one/) | bypassable access control using predictable constraints | ✅ Solved |
+| 14 | [Gatekeeper One](./14-gatekeeper-two/) | bypassable access control using predictable constraints | ✅ Solved |
 
 ## Writeup Structure
 
