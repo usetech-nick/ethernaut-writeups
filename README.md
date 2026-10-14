@@ -15,14 +15,15 @@ The goal is to understand smart contract vulnerabilities, reproduce exploits, an
 | 4 | [Telephone](./04-telephone/) | `tx.origin` vs `msg.sender` | ✅ Solved |
 | 5 | [Token](./05-token/) | Integer underflow | ✅ Solved |
 | 6 | [Delegation](./06-delegate/) | Unsafe `delegatecall` with user-controlled calldata | ✅ Solved |
-| 7 | [Force](./07-force/) | Forced ether transfer via `selfdestruct` | ✅ Solved |
+| 7 | [Force](./07-force/) | Forced Ether transfer via `selfdestruct` | ✅ Solved |
 | 8 | [Vault](./08-vault/) | Reading "private" storage on-chain | ✅ Solved |
 | 9 | [King](./09-king/) | Denial of service via failed ETH refund | ✅ Solved |
 | 10 | [Re-entrancy](./10-reentrancy/) | Reentrancy via state update after external call | ✅ Solved |
 | 11 | [Elevator](./11-elevator/) | Trusting an external contract to answer consistently | ✅ Solved |
 | 12 | [Privacy](./12-privacy/) | Reading private storage, storage packing | ✅ Solved |
-| 13 | [Gatekeeper One](./13-gatekeeper-one/) | bypassable access control using predictable constraints | ✅ Solved |
-| 14 | [Gatekeeper Two](./14-gatekeeper-two/) | bypassable access control using predictable constraints | ✅ Solved |
+| 13 | [Gatekeeper One](./13-gatekeeper-one/) | Gas-sensitive access control, key construction | ✅ Solved |
+| 14 | [Gatekeeper Two](./14-gatekeeper-two/) | Constructor-time calls, code-size checks, XOR | ✅ Solved |
+| 15 | [Naught Coin](./15-naught-coin/) | Bypassing a transfer restriction via `transferFrom()` | ✅ Solved |
 
 ## Writeup Structure
 
@@ -33,7 +34,7 @@ Each documented challenge covers:
 - **Exploit:** Steps to reproduce the attack.
 - **Impact:** What can an attacker achieve?
 - **Mitigation:** How could the issue be prevented?
-- **Proof of Concept:** Foundry tests where applicable.
+- **Proof of Concept:** Attack contracts and Foundry tests where applicable.
 
 ## Tools
 
