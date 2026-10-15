@@ -24,6 +24,7 @@ The goal is to understand smart contract vulnerabilities, reproduce exploits, an
 | 13 | [Gatekeeper One](./13-gatekeeper-one/) | Gas-sensitive access control, key construction | ✅ Solved |
 | 14 | [Gatekeeper Two](./14-gatekeeper-two/) | Constructor-time calls, code-size checks, XOR | ✅ Solved |
 | 15 | [Naught Coin](./15-naught-coin/) | Bypassing a transfer restriction via `transferFrom()` | ✅ Solved |
+| 16 | [Preservation](./16-preservation/) | `delegatecall` storage collision, library address takeover | ✅ Solved |
 
 ## Writeup Structure
 
