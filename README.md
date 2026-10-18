@@ -27,6 +27,8 @@ The goal is to understand smart contract vulnerabilities, reproduce exploits, an
 | 16 | [Preservation](./16-preservation/) | `delegatecall` storage collision, library address takeover | ✅ Solved |
 | 17 | [Recovery](./17-recovery/) | Recovering a lost contract address, deterministic `CREATE` addresses | ✅ Solved |
 | 18 | [MagicNumber](./18-magic-number/) | Hand-written EVM bytecode, init code vs runtime code | ✅ Solved |
+| 19 | [Alien Codex](./19-alien-codex/) | Integer underflow, dynamic array storage collision, arbitrary storage write | ✅ Solved |
+
 
 ## Writeup Structure
 
