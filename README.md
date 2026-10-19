@@ -28,6 +28,7 @@ The goal is to understand smart contract vulnerabilities, reproduce exploits, an
 | 17 | [Recovery](./17-recovery/) | Recovering a lost contract address, deterministic `CREATE` addresses | ✅ Solved |
 | 18 | [MagicNumber](./18-magic-number/) | Hand-written EVM bytecode, init code vs runtime code | ✅ Solved |
 | 19 | [Alien Codex](./19-alien-codex/) | Integer underflow, dynamic array storage collision, arbitrary storage write | ✅ Solved |
+| 20 | [Denial](./20-denial/) | Gas griefing to deny withdrawals via an untrusted external call | ✅ Solved |
 
 
 ## Writeup Structure
