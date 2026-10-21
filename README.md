@@ -30,6 +30,7 @@ The goal is to understand smart contract vulnerabilities, reproduce exploits, an
 | 19 | [Alien Codex](./19-alien-codex/) | Integer underflow, dynamic array storage collision, arbitrary storage write | ✅ Solved |
 | 20 | [Denial](./20-denial/) | Gas griefing to deny withdrawals via an untrusted external call | ✅ Solved |
 | 21 | [Shop](./21-shop/) | State-dependent external calls and inconsistent return values | ✅ Solved |
+| 22 | [Dex](./22-dex1/) | Manipulating balance-based swap pricing to drain a token reserve | ✅ Solved |
 
 
 ## Writeup Structure
