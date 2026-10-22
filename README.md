@@ -31,7 +31,7 @@ The goal is to understand smart contract vulnerabilities, reproduce exploits, an
 | 20 | [Denial](./20-denial/) | Gas griefing to deny withdrawals via an untrusted external call | ✅ Solved |
 | 21 | [Shop](./21-shop/) | State-dependent external calls and inconsistent return values | ✅ Solved |
 | 22 | [Dex](./22-dex1/) | Manipulating balance-based swap pricing to drain a token reserve | ✅ Solved |
-| 23 | [Dex2](./23-dex-two/) | Unvalidated token addresses, price manipulation | ✅ Solved |
+| 23 | [Dex2](./23-dex2/) | Unvalidated token addresses, price manipulation | ✅ Solved |
 
 
 ## Writeup Structure
